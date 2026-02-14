@@ -8,13 +8,13 @@
 
 ## By defualt component should haev date as props and addtional styling props are added which are optional
 
-## Defualt component calender example given below
+## Defualt component calendar example given below
   ## It  will take date as a string or as a date value
 
          <Calendar date="1999-12-03" />
  
 
-## Custom styled component calender example given below
+## Custom styled component calendar example given below
 
          <Calendar
           date="1999-12-03"
